@@ -1,0 +1,337 @@
+transalexa_StunningTest= Stunning!
+transalexa_StunningTest_1_stunningtest= Stunning!
+transalexa_StunningTest_A_Start= Basics
+transalexa_StunningTest_11= Floats
+transalexa_StunningTest_21= Slowdown
+transalexa_StunningTest_31= Bonus
+poem_transalexa_StunningTest_A= No, you're stunning!
+
+
+INTRO= 
+[Madeline left normal]
+This is a map meant to test your spinner stunning ability
+While it's possible to stun without being a TAS, these are not designed to be done by humans
+Good Luck!
+If you need help, feel free to ping or dm me on discord (@trans_alexa)
+Or visit the accompanying tutorial at 
+https://shorturl.at/KirCu
+Or, unshortened,
+https://docs.google.com/document/d/
+1KT80bL4l_OeaqCa0usKR6rGW1zBNlk0Dv5aTDd7hKBs
+
+ONESPINNER=
+[Madeline left normal]
+Welcome to room 1!
+This room tests out your ability to stun.
+If you can't make it past this, you won't enjoy the rest of the map.
+(Also sorry, took away your dashes)
+
+ONEBUNNY=
+[Madeline left normal]
+Welcome to room 2!
+Instead of a spinner ...
+How about a dust bunny?
+
+ONELIGHTNING=
+[Madeline left normal]
+Welcome to room 3!
+Okay that dust bunny behaved pretty much the same as a spinner in this case.
+But lightning, shockingly, doesn't.
+
+TWOSPINNER=
+[Madeline left normal]
+Welcome to room 4!
+I suppose you can stun one spinner ...
+But can you stun two?
+
+FREEZEFRAMES=
+[Madeline left normal]
+Welcome to room 5!
+It looks like you're getting a boost!
+Let's hope this doesn't freeze you too much...
+
+CHOICESCHOICES=
+[Madeline left normal]
+Welcome to room 6!
+[MADELINE left sad]
+Oh no ... not every spinner is the same group
+How will you handle it now?
+
+CHALLENGEONE=
+[Madeline left normal]
+Welcome to room 7!
+Time for a proper test. 
+[Madeline left determined]
+Can you cross the gap?
+
+CAMERAINTRO=
+[Madeline left normal]
+Welcome to room 8!
+Now it's time to get the camera involved!
+It's time for a dropper series. First stop? Spinners
+
+CAMERALIGHTNING=
+[Madeline left normal]
+Welcome to room 9!
+The dropper continues. It's lightning time!
+
+CAMERADUST=
+[Madeline left normal]
+Welcome to room 10!
+All of these dust bunnies have the same group!
+It's the final dropper ... hop to it!
+
+DRIFTINTRO=
+[Madeline left normal]
+Welcome to room 11!
+[Madeline left surprised]
+Oh no! These spinners are different colors...
+...
+[Madeline left determined]
+or are they?
+Welcome to drift!
+
+SLOWDRIFT=
+[Madeline left normal]
+Welcome to room 12!
+These spinners barely stay together
+How will you have enough time to pass?
+You should probably come back to this room later :)
+
+DRIFTFLIP=
+[Madeline left normal]
+Welcome to room 13!
+Hmm, again you don't have long.
+[Madeline right normal]
+Oh wait, let me check the time.
+Yeah, you still don't have long.
+Good luck!
+
+DRIFTADJUST=
+[Madeline left normal]
+Welcome to room 14!
+Gosh, that block moves slow.
+I suppose you'll have to learn how to adjust.
+Good thing they're all the same!
+
+DRIFTRAINBOW=
+[Madeline left normal]
+Welcome to room 15!
+Oh no ... these spinners are every color!
+Getting across will be impossible, right?
+
+TENDRIFT=
+[Madeline left normal]
+Welcome to room 16!
+How rude! These spinners aren't the same.
+It's annoying how drift is just too slow to keep them together...
+Good luck!
+
+FREEZE=
+[Madeline left normal]
+Welcome to room 17!
+Oh no - you can't stun them all!
+You might as well give up now ...
+See you next week!
+
+NOFREEZE=
+[Madeline left normal]
+Welcome to room 18!
+Well, look at all these blue objects, surely you're fine...
+Or are you? 
+Wait - and is that one red?
+
+CLOSEFREEZE=
+[Madeline left normal]
+Welcome to room 19!
+Oh no! The spinners are all around you!
+You can't even hope to stun them, they're too close.
+I guess you're stuck now.
+
+STUPIDSET=
+[Madeline left normal]
+Welcome to room 20!
+Well, I hope you stayed legal with the set command earlier.
+Now it's time to break the rules!
+Feel free to set timeactive to whatever you want!
+
+SLOWDOWN=
+[Madeline left normal]
+Welcome to room 21!
+{~}Time is getting messed up{/~}
+{~}It's time to {>> .5} slow {>>}{>> .1}dooo{>>}{>> .05}wwwn{>>}{>> .01}nnnnn{>>}{/~}
+(Also, no freeze for this checkpoint please!)
+
+BIRDTOSS=
+[Madeline left normal]
+Welcome to room 22!
+You may have noticed that last room was just pausing every frame!
+That time rate is perfectly pause bufferable - perfect for RTA use!
+Let's see if you can handle a slightly different rate...
+(Also, you do have Engine.TimeRate in your info, yes?)
+
+BADELINETOSS=
+[Madeline left normal]
+Welcome to room 23!
+Oh no! Part of You looks mad...
+She's going to throw you right into a spinner!
+I will admit though, she does look {~}stunning{/~}.
+
+OSHIRO=
+[Madeline left normal]
+Welcome to room 24!
+It's time to get variable!
+That is, now timerate changes more.
+The other side is just a hop, skip, and a jump away!
+
+SLOWDOWNMANIP=
+[Madeline left normal]
+Welcome to room 25!
+It looks like these spinners are basically never together.
+I guess you gotta slow down and make your own path!
+
+BADELINEHALF=
+[Madeline left normal]
+Welcome to room 26!
+Part of You is again about to throw you into a spinner!
+This one is farther right though ...
+You're going to need to stun the whole throw!
+Thankfully, rumor tells me that she's the last one in this room.
+
+NODEATH=
+[Madeline left normal]
+Welcome to ...
+Oh I don't need my normal script for this.
+Dying in these rooms is strictly forbidden.
+I guarantee you don't need to (it just might take you a while)
+
+BADELINE1024=
+[Madeline left normal]
+Welcome to room 27!
+We have reached the hardest things to TAS.
+Having reached here is a triumph. From here, I don't expect you to find this easy.
+[Badeline right scoff]
+{~}I expect you to die{/~}
+[Madeline left surprised]
+See you in 15 minutes!
+
+BADELINE1800=
+[Madeline left normal]
+Welcome to room 28!
+Congratulations on beating that last room.
+Now you have to do it again! When will this spinner cooperate?
+
+FINALBADELINE=
+[Madeline left normal]
+Welcome to room 29!
+This is the final throw ... can you do it?
+Wait, what's that at the end of the room? 
+A drift check? Oh no, you'll have to be fast!
+(Good thing the save and quit prison is gone)
+
+HEARTTRIUMPH=
+[Madeline left normal]
+Welcome to room 30!
+You've made it! The heart is right there!
+Of course, if you want to see the extra ideas I have ...
+Wander to the right for the berry section!
+(None are as hard as the last three you did)
+
+SLOWDOWNFREEZE=
+[Madeline left normal]
+Welcome to room 31!
+Okay I get you're used to waiting 5 days, but I don't really have the time.
+See you in 3?
+I did leave my slowdown field around here for some reason.
+
+SEEKERFREEZE=
+[Madeline left normal]
+Welcome to room 32!
+[Madeline left scared]
+Oh no - there's a seeker right there!
+And so many spinners, we're doomed.
+
+STRANGESTUNNING=
+[Madeline left normal]
+Welcome to room 33!
+Oh no! These spinners are different groups.
+One of them doesn't freeze!
+There's no way to do this ...
+Right?
+
+MEANLIGHTNING=
+[Madeline left normal]
+Welcome to room 34!
+Knowing this mapper, you're going to need to wait 5 days soon.
+So let's avoid save and quitting if we can?
+The mapper's so nice too - you have two options!
+
+UNSTUNNING=
+[Madeline left normal]
+Welcome to room 35!
+[Theo right serious]
+Hey {+MADELINE}, I'm scared.
+I'm terrified of spinners.
+Even in this crystal I'll still jump in fright!
+Thankfully you're too far away for them to be real.
+[Madeline left normal]
+Or am I?
+
+CHASERHORDE=
+[Madeline left normal]
+Welcome to room 36!
+[Badeline right freakBAlt]
+Oh we're going to kill you.
+How long have you made us wait?
+We're gonna keep you trapped here for a long time...
+[Madeline left upset]
+I can only protect you here. Good luck
+
+MOONFREEZE=
+[Madeline left normal]
+Welcome to room 37!
+Gosh, it's freezing out here in space.
+So glad I have my safe corridor ... 
+
+NICELIGHTNING=
+[Madeline left normal]
+Welcome to room 38!
+Okay we've got lightning right there.
+You know the deal, time to save and quit since we've already frozen.
+Or wait - 
+I sure hope that I can remove this screen!
+
+BINOPOWER=
+[Madeline left normal]
+Welcome to room 39!
+[Madeline left panic]
+Oh no, these spinners don't freeze!
+And they're right next to the spawn.
+I can't see what you're gonna do now.
+
+BERRYSPEED=
+[Madeline left normal]
+Welcome to room 40!
+[Madeline left determined]
+Congratulations!
+You've done it all!
+Of course, all of this stunning is unnecessary if you just
+[Madeline left together]
+Go fast enough
+
+loremipsum=
+[Madeline left normal]
+You forgot to change this
+
+
+
+
+Planning:
+0: intro
+1->10 Basics: 1Single, 2Dust, 3Lightning, 4Duo, 5SkipInput, 6Choices, 7Choices pt 2, 8Camera Spinner, 9Camera Lightning, 10Camera Dust
+
+11->20 Floats: 1Drift, 2SNQ, 3Flip128, 4Adjust, 5Adjustpt2, 6Speed1024, 7Freeze, 8DontFreeze, 9CloseFreeze [die], 10FunnySet
+
+21->30 Slowdown: 1bird(80%), 2(81%), 3(75% [part badeline]), 4Oshiro, 5Slowdown SNQ speed, 6Badeline Final(.5 not .75), 7Badeline1024, 8Badeline1800, 9BadelinePre1024, 10 HEART (walk past to bonus)
+
+31->40 Bonus (10): bino power, 2^18 stunning, 2^18 slowdown freeze, 2^18 seeker walk, ChaserFreeze, MoonFreeze, 2^19 nice lightning, 2^18 mean lightning, 2^18 mean spinners, super speed for final!
