@@ -95,14 +95,14 @@ def framesTillFreeze(timeActive):
 
 def generateWait(startingTimeActive,startingFrameCount,goalTimeActive = 524288):
     #Produces the 3 commands required for a wait
-    #Command 1: console evallua ...  changes filetime - not necessary for individual levels, but crucial for fullgame things
+    #Command 1: evallua ...  changes filetime - not necessary for individual levels, but crucial for fullgame things
     #Command 2: Set TimeActive is pretty clear what it does, sets the timeactive
     #Command 3: Set Session.Time updates the current level timer to the appropriate value
     startingTimeActive, goalTimeActive = ensureSingle(startingTimeActive,goalTimeActive)
     startingFTF = framesTillFreeze(startingTimeActive)
     endingFTF = framesTillFreeze(goalTimeActive)
     totalFrames = startingFTF - endingFTF
-    print('console EvalLua Celeste.SaveData.Instance:AddTime(session.Area, '+str(totalFrames)+' * 170000)')
+    print('EvalLua Celeste.SaveData.Instance:AddTime(session.Area, '+str(totalFrames)+' * 170000)')
     print("Set, Level.TimeActive, " + str(np.double(goalTimeActive)))
     print("Set, Session.Time, " + str(170000 * (startingFrameCount + totalFrames)))
 
@@ -119,7 +119,7 @@ def cycleWait(startingTimeActive,startingFrameCount,cycleLength, goalTimeActive 
     newGoalTimeActive = goalTimeActive
     for _ in range(remainingFrames):
         newGoalTimeActive = subtractFrame(newGoalTimeActive)
-    print("console EvalLua Celeste.SaveData.Instance:AddTime(session.Area, '+str(totalFrames)+' * 170000)")
+    print("EvalLua Celeste.SaveData.Instance:AddTime(session.Area, '+str(totalFrames)+' * 170000)")
     print("Set, Level.TimeActive, " + str(np.double(newGoalTimeActive)))
     print("Set, Session.Time, " + str(170000 * (startingFrameCount + totalFrames)))
     print("This consisted of "+str(cycleCount)+" loops and there remains "+str(remainingFrames)+" frames to wait before your value")
